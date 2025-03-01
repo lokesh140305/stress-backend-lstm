@@ -1,0 +1,11 @@
+{
+  "name": "stress-monitoring-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "axios": "^1.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
